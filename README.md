@@ -3,7 +3,7 @@ This repository consisted of the files related to a research paper on ECG data a
 
 For ECG augmentation:
 
-- open the Data Augmentation algorithm notebook and change the dataset path / output directory by giving the necessary parameters in main function.
+- open the Data Augmentation algorithm notebook and change the dataset path / output directory and input the necessary parameters in main function.
 
 For Model Training:
 
