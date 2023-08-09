@@ -1,6 +1,10 @@
 # ECG-data-augmentation
 This repository consisted of the files related to a research paper on ECG data augmentation method.
 
+Pre-Processing:
+
+- The 12-lead ECG signals must be in numpy array i.e., 12 columns x 1000 rows. The WFDB library is useful for this task, when signals are downloaded from physioNet.org
+
 For ECG augmentation:
 
 - Open the Data Augmentation algorithm notebook and change the dataset path / output directory and input the necessary parameters in main function.
